@@ -1,0 +1,13 @@
+{
+  "name": "welcome_app",
+  "version": "1.0.0",
+  "description": "welcome app Node.js on Docker",
+  "author": "ManiMaran Chandrasekaran<Mani.maran@di.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
